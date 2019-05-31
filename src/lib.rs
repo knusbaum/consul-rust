@@ -37,6 +37,7 @@ extern crate serde_json;
 extern crate hyper;
 extern crate openssl;
 extern crate hyper_openssl;
+extern crate bytes;
 
 /// public api
 pub use agent::{Agent, AgentMember};
