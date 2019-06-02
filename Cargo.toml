@@ -1,6 +1,6 @@
 [package]
 
-name = "knusbaum.consul"
+name = "knusbaum_consul"
 version = "0.2.0"
 authors = ["Andrew Useckas <andrew.useckas@threat-x.com>", "Stu Small <stuart.small@threat-x.com>", "YoungKing <yanckin@gmail.com>"]
 description = "Patched version of the Rust client libray for Consul HTTP API"
