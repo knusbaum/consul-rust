@@ -1,11 +1,11 @@
 [package]
 
-name = "consul"
+name = "knusbaum.consul"
 version = "0.2.0"
 authors = ["Andrew Useckas <andrew.useckas@threat-x.com>", "Stu Small <stuart.small@threat-x.com>", "YoungKing <yanckin@gmail.com>"]
-description = "Rust client libray for Consul HTTP API"
+description = "Patched version of the Rust client libray for Consul HTTP API"
 documentation = "https://docs.rs/consul/"
-repository = "https://github.com/stusmall/consul-rust"
+repository = "https://github.com/knusbaum/consul-rust"
 license = "MIT/Apache-2.0"
 
 readme = "README.md"
